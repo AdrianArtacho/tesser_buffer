@@ -6,7 +6,7 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 This device allows to save and recall bits of audio.
 
-![TESS:buffer](https://docs.google.com/drawings/d/e/2PACX-1vSuzx2xll8-uQrTy2LTUbEWJJerbhCRWRUapfXU94b84frivBjTbgJttA1Qzdog5EieDfIV7mc9qIKP/pub?w=639&h=102)
+![TESS:buffer](img/gui.png)
 
 ### Usage
 
